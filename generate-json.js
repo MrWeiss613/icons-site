@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const BASE_URL = "https://icons-94z.pages.dev";
+const BASE_URL = "https://icons-site.pages.dev";
 const ICONS_FOLDER = __dirname;
 
 const allowed = [".jpg", ".jpeg", ".png", ".webp"];
