@@ -1,6 +1,11 @@
 {
   "icons": [
     {
+      "path": "https://icons-site.pages.dev/Other/Uncle Moishy.webp",
+      "folder": "Other",
+      "name": "Uncle Moishy.webp"
+    },
+    {
       "path": "https://icons-site.pages.dev/colorful-icons/animations_112.png",
       "folder": "colorful-icons",
       "name": "animations_112.png"
